@@ -1,5 +1,5 @@
 
-  # Teaser Landing Page
+  # Welcome
 
   This is a code bundle for Teaser Landing Page. The original project is available at https://www.figma.com/design/HU6dbN1fAxpTDUFDA3xLFX/Teaser-Landing-Page.
 
